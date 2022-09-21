@@ -1,0 +1,16 @@
+{
+    "name": "code-dev-33/app_carrinho_compras",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos",
+            "email": "marcos.santos@codenapp.com"
+        }
+    ],
+    "require": {}
+}
