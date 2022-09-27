@@ -2,6 +2,8 @@
 
 namespace App;
 
+use App\CarrinhoCompra;
+
 class Pedido
 {
   private $status;
