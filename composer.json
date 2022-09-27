@@ -12,5 +12,7 @@
             "email": "marcos.santos@codenapp.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
 }
