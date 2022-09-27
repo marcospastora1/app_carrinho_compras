@@ -32,4 +32,12 @@ class Item
   {
     return $this->valor = $valor;
   }
+
+  public function itemValido()
+  {
+    if ($this->descricao == '' || $this->valor <= 0) {
+      return false;
+    }
+    return true;
+  }
 }
